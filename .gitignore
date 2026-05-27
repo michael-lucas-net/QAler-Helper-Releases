@@ -1,3 +1,24 @@
 .DS_Store
 *.tmp
 *.download
+
+# Never publish local signing material or credentials.
+*.cer
+*.certSigningRequest
+*.key
+*.p12
+*.p8
+*.pem
+*.provisionprofile
+*.mobileprovision
+
+# Keep source/build products out of the public release repository.
+*.app
+*.xcarchive
+*.xcodeproj
+*.xcworkspace
+*.swift
+*.swiftpm
+*.zip
+DerivedData/
+build/

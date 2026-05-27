@@ -1,12 +1,18 @@
 <?xml version="1.0" standalone="yes"?>
-<rss
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>QAler-Helper Updates</title>
         <link>https://github.com/michael-lucas-net/QAler-Helper-Releases</link>
         <description>QAler-Helper update feed</description>
         <language>de</language>
+        <item>
+            <title>2.1.1</title>
+            <pubDate>Wed, 27 May 2026 16:11:11 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://michael-lucas-net.github.io/QAler-Helper-Releases/releases/2.1.1-11/QAler-Helper-2.1.1-11.html</sparkle:releaseNotesLink>
+            <enclosure url="https://michael-lucas-net.github.io/QAler-Helper-Releases/releases/2.1.1-11/QAler-Helper-2.1.1-11.dmg" length="4184659" type="application/octet-stream" sparkle:edSignature="geDYa6ZuEL6f2oBA87nTuLKGOzjJDAQFInZ7Hx8Sals1+y+qSQmFqiFDPXEA3VkQ/Odl7T9U4swAFQtCU7o8CQ=="/>
+        </item>
     </channel>
 </rss>

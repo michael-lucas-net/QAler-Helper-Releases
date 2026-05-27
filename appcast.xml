@@ -6,6 +6,15 @@
         <description>QAler-Helper update feed</description>
         <language>de</language>
         <item>
+            <title>2.1.2</title>
+            <pubDate>Wed, 27 May 2026 16:15:57 +0200</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://michael-lucas-net.github.io/QAler-Helper-Releases/releases/2.1.2-12/QAler-Helper-2.1.2-12.html</sparkle:releaseNotesLink>
+            <enclosure url="https://michael-lucas-net.github.io/QAler-Helper-Releases/releases/2.1.2-12/QAler-Helper-2.1.2-12.dmg" length="4184741" type="application/octet-stream" sparkle:edSignature="GKaRm73LHiOLqfD92yRBMkADSdamk5UzeVLYabpXNra5+lk+aG5xotZ4ho09Yicw2+zM5F0L8YrgJ/7apn0JAw=="/>
+        </item>
+        <item>
             <title>2.1.1</title>
             <pubDate>Wed, 27 May 2026 16:11:11 +0200</pubDate>
             <sparkle:version>11</sparkle:version>

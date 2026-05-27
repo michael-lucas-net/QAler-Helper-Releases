@@ -8,8 +8,8 @@ GitHub Pages serves:
 - `appcast.xml`
 - per-version release notes under `releases/`
 
-GitHub Releases host notarized DMG artifacts. The Sparkle appcast references the public
-DMG download URLs.
+Per-version folders under `releases/` host notarized DMG artifacts and release notes for
+Sparkle. GitHub Releases may also mirror the DMGs for manual downloads.
 
 Do not commit source code, credentials, certificates, notarization credentials, or Sparkle
 private keys to this repository.
